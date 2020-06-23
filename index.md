@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+##2020/6/23
 
-You can use the [editor on GitHub](https://github.com/Lynne-ls/Lynne-s-repository/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 欢迎来到Lynne的仓库
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+路漫漫其修远兮，吾将上下而求索，这里记录着我的技术学习心路历程。
 
-### Markdown
+但行好事，莫问前程，希望我的笔一直在路上。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 以下是废话
 
-# Header 1
-## Header 2
-### Header 3
+目前我是一名软件测试工程师（还能当多久我无可得知，毕竟我现在就想转行了==）。
 
-- Bulleted
-- List
+19年大学毕业，专业是通信工程
 
-1. Numbered
-2. List
+经历了一年996私企毒打后，现在很想去考个公务员，朝九晚五双休，利用空闲时间考个在职研究生给自己学历镀镀金，顺便谋个小副业搞搞，通过合理的理财投资，搭上复利的高速列车，一步步实现财富自由，从而人生自由。
 
-**Bold** and _Italic_ and `Code` text
+对不起做了个梦。
 
-[Link](url) and ![Image](src)
-```
+继续看书学习了，为了美好的明天奋斗吧
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lynne-ls/Lynne-s-repository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
